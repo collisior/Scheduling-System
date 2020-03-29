@@ -1,5 +1,6 @@
-Language used: Java
-Below queuing systems has a stochastic process whose state space is the set {0,1,2,3,...} where the value corresponds to the number of customers in the system, including any currently in service.
+Written in Java.
+
+All listed below queuing systems has a stochastic process whose state space is the set {0,1,2,3,...} where the value corresponds to the number of customers in the system, including any currently in service.
 
 
 # M/M/1 Simulation
